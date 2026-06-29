@@ -28,7 +28,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className="dark:bg-slate-900 dark:text-slate-50"
+      className="dark dark:bg-slate-900 dark:text-slate-50"
     >
       <body className="min-h-full flex flex-col">{children}</body>
     </html>
