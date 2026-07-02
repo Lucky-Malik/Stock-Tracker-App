@@ -9,13 +9,17 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "better-auth": "^1.6.23",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "cmdk": "^1.1.1",
+    "inngest": "^4.11.0",
     "lucide-react": "^1.22.0",
+    "mailer": "^0.6.7",
     "mongodb": "^7.4.0",
     "mongoose": "^9.7.3",
     "next": "16.2.9",
+    "node": "^26.4.0",
     "radix-ui": "^1.6.0",
     "react": "19.2.4",
     "react-dom": "19.2.4",
